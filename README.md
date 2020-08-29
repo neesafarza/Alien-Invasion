@@ -8,7 +8,7 @@ To learn Python 3 while building something fun.
 
 ## Screenshot
 
-![Aliens Invading](images/screenshot.png)
+![Aliens Invading](images/aliensinvasion.gif)
 
 ## Dependencies
 
