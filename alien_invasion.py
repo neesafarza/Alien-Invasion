@@ -50,3 +50,4 @@ def run_game():
 		pygame.display.flip()
 
 run_game()
+
