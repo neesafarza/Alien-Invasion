@@ -1,5 +1,6 @@
 # Alien Invasion
 
+![header](images/header.gif)
 The infamous retro game where user has to fight off waves of invading aliens.
 
 ## Motivation
